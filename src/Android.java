@@ -1,6 +1,6 @@
-public class Android extends Smart_Phone {
+public class Android extends SmartPhone {
     public static void main(String[] args) {
-        Smart_Phone smartPhone=new Smart_Phone();
+        SmartPhone smartPhone=new SmartPhone();
         System.out.println(smartPhone.getXmi()+smartPhone.getHuawei()+smartPhone.getSamsung());
     }
 }

@@ -1,2 +1,2 @@
-public class Symbian extends Smart_Phone {
+public class Symbian extends SmartPhone {
 }

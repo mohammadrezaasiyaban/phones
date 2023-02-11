@@ -1,2 +1,2 @@
-public class Bada extends Smart_Phone {
+public class Bada extends SmartPhone {
 }

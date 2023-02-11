@@ -1,6 +1,6 @@
-public class Tizen extends Smart_Phone {
+public class Tizen extends SmartPhone {
     public static void main(String[] args) {
-        Smart_Phone smartPhone = new Smart_Phone();
+        SmartPhone smartPhone = new SmartPhone();
         System.out.println(smartPhone.getSmart_watch());
     }
 }

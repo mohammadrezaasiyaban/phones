@@ -1,2 +1,2 @@
-public class Palm extends Smart_Phone {
+public class Palm extends SmartPhone {
 }

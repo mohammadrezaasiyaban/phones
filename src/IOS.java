@@ -1,6 +1,6 @@
-public class IOS extends Smart_Phone {
+public class IOS extends SmartPhone {
     public static void main(String[] args) {
-        Smart_Phone smartPhone=new Smart_Phone();
+        SmartPhone smartPhone=new SmartPhone();
         System.out.println(smartPhone.getIos()+smartPhone.getIos1()+ smartPhone.getIos2());
     }
 }

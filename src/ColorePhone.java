@@ -1,4 +1,4 @@
-public class Colore_Phone extends Java {
+public class ColorePhone extends Java {
     @Override
     public void nokia105() {
         super.nokia105();

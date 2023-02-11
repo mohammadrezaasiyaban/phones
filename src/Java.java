@@ -1,4 +1,4 @@
-public class Java extends Key_Phone {
+public class Java extends KeyPhone {
     public void nokia1100(){
 
     }

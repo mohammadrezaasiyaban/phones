@@ -1,4 +1,4 @@
-public class Smart_Phone extends Phones {
+public class SmartPhone extends Phones {
     private String ios="  ipod Touch  ";
     private String ios1="  Appele TV  ";
     private String ios2="  Appele watch  ";
